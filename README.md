@@ -11,7 +11,7 @@
 1. Dengan kata kunci "TEKNIK INFORMATIKA"<p>Dengan kata pesannya "GOOD BROOM SWEEP CLEAN"</p>
 <p>Ini hasil dari kode tersebut</p>
 
-![](Foto/foto1.png)
+![menambahkan_gambar](Foto/foto1.png)
 
 2. Dengan kata kunci "TEKNIK INFORMATIKA"<p>Dengan kata pesannya "REDWOOD NATIONAL STATE PARK"</p>
 <p>Ini hasil dari kode tersebut</p>
